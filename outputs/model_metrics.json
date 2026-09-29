@@ -1,0 +1,15 @@
+{
+    "baseline": {
+        "model": "Seasonal Naive",
+        "wape": 0.2068846923461731,
+        "bias": 7.6025
+    },
+    "random_forest": {
+        "model": "Random Forest",
+        "wape": 0.17334728109438002,
+        "bias": 5.864740644043632
+    },
+    "forecast_horizon_weeks": 8,
+    "seasonal_lag_weeks": 52,
+    "backtest_weeks": 8
+}
